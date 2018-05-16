@@ -6,7 +6,6 @@
 	<groupId>edu.northeastern.cs5200</groupId>
 	<artifactId>cs5200-summer2018-patil</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 
 	<name>cs5200-summer2018-patil</name>
 	<description>Demo project for Spring Boot</description>
