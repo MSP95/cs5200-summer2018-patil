@@ -1,12 +1,22 @@
-# Test App
-# AWS URLs 
+# PR2: Integrating Spring Boot with MySQL
+## AWS URLs
+[Insert a static hello message](http://http://cs5200-summer2018-patil.us-east-1.elasticbeanstalk.com/api/hello/insert)
+
+[Insert a parameterized hello message](http://http://cs5200-summer2018-patil.us-east-1.elasticbeanstalk.com/api/hello/insert/Some parameterized message)
+
+[Retrieve all hello messages](http://http://cs5200-summer2018-patil.us-east-1.elasticbeanstalk.com/api/hello/select/all)
+
+  - - -
+
+# PR1: Setting up development environment
+## AWS URLs
 [http://cs5200-summer2018-patil.us-east-1.elasticbeanstalk.com/](http://cs5200-summer2018-patil.us-east-1.elasticbeanstalk.com/)
 
 [http://cs5200-summer2018-patil.us-east-1.elasticbeanstalk.com/api/hello/string](http://cs5200-summer2018-patil.us-east-1.elasticbeanstalk.com/api/hello/string)
 
 [http://cs5200-summer2018-patil.us-east-1.elasticbeanstalk.com/api/hello/object](http://cs5200-summer2018-patil.us-east-1.elasticbeanstalk.com/api/hello/object)
 
-# Heroku App URLs
+## Heroku App URLs
 [https://glacial-garden-82673.herokuapp.com](https://glacial-garden-82673.herokuapp.com)
 
 [https://glacial-garden-82673.herokuapp.com/api/hello/string](https://glacial-garden-82673.herokuapp.com/api/hello/string)
